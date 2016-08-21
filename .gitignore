@@ -1,6 +1,7 @@
 
 /Vendor/*
 /Plugin/*
+/App/tmp/*
 #/tmp/*
 
 

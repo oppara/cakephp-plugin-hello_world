@@ -1,6 +1,10 @@
 http://book.cakephp.org/2.0/ja/installation/advanced-installation.html
 
-composer install
-Vendor/bin/cake bake project App
+% composer install
+% Vendor/bin/cake bake project App
+
+fix App/Config/bootstrap.php, App/webroot/index.php and App/webroot/test.php
+
+% Vendor/bin/cake server -p 4566 -d App/webroot
 
 
