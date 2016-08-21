@@ -1,0 +1,24 @@
+{
+  "name": "oppara/cakephp-plugin-sample",
+  "type": "cakephp-plugin",
+  "description": "CakePHP plugin sample",
+  "keywords": ["cakephp", "plugin", "sample"],
+  "license": "MIT",
+  "homepage": "https://github.com/oppara/cakephp-plugin-sample",
+  "authors": [
+    {
+      "name": "oppara",
+      "email": "oppara@oppara.tv"
+    }
+  ],
+  "require": {
+    "php": ">=5.3",
+    "composer/installers" : "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">=3.7"
+  },
+  "extra": {
+    "installer-name": "HelloWorld"
+  }
+}
