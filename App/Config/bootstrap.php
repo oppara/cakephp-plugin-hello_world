@@ -102,4 +102,4 @@ CakeLog::config('error', array(
 	'file' => 'error',
 ));
 
-CakePlugin::load('HelloWorld', array('bootstrap' => false, 'routes' => false));
+CakePlugin::load('HelloWorld', array('bootstrap' => false, 'routes' => true));
