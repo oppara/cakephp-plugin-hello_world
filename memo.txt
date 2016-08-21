@@ -7,4 +7,6 @@ fix App/Config/bootstrap.php, App/webroot/index.php and App/webroot/test.php
 
 % Vendor/bin/cake server -p 4566 -d App/webroot
 
+% Vendor/bin/cake bake plugin HelloWorld -app App
+
 
