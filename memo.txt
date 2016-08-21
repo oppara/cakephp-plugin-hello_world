@@ -1,0 +1,6 @@
+http://book.cakephp.org/2.0/ja/installation/advanced-installation.html
+
+composer install
+Vendor/bin/cake bake project App
+
+

@@ -1,0 +1,13 @@
+{
+    "name": "oppara/sample-plugin",
+    "require": {
+        "cakephp/cakephp": "2.8.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "cakedc/migrations": "2.3.*"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}
