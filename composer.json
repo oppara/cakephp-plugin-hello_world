@@ -1,5 +1,5 @@
 {
-    "name": "oppara/sample-plugin",
+    "name": "oppara/cakephp-plugin-sample",
     "require": {
         "cakephp/cakephp": "2.8.*"
     },
